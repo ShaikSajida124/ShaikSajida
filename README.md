@@ -1,30 +1,74 @@
+<h1 align="center">Hi, I'm Sajida! 👋</h1>
 
-# Hi there, I'm Sajida! 👋
+<h3 align="center">🌱 Aspiring Web Developer | Self-Learner</h3>
 
-I am a self-taught developer from Andhra Pradesh, India. Over the past year, I have built a disciplined daily routine to master programming and computer science foundations entirely on my smartphone. 
-
-My ultimate goal is to become a **Full-Stack Developer** and transition into a **Software Engineer**, designing scalable systems and solving complex algorithmic challenges.
-
----
-
-### 🚀 Target Roadmap & Learning Stack
-
-- 🌐 **Frontend:** Advancing from semantic HTML5 & CSS3 layouts into deep **JavaScript** interactivity and modern web architectures.
-- ⚙️ **Backend & Logic:** Solving **Data Structures & Algorithms (DSA)** via **Python** to build a strong engineering foundation.
-- 📐 **Engineering Core:** Strengthening my analytical problem-solving skills through **Mathematics** on Khan Academy.
-- 🗣️ **Communication:** Polishing my professional English skills using BBC Learning English and MrEnglish.
+<p align="center">
+  Learning, building, and growing one line of code at a time. 💻
+</p>
 
 ---
 
-### 🛠️ Ecosystem & Platforms I Use
-* **Mobile IDEs:** ⚡ **Spck Editor** & **Acode** (Web Development) | 🐍 **Pydroid 3** (Python & DSA execution)
-* **Platforms:** freeCodeCamp, Apna College, W3Schools, and GeeksforGeeks.
+### 🌷 About Me
+
+- 🌱 I'm a self-taught developer learning web development and programming.
+- 💻 I have completed freeCodeCamp's Responsive Web Design Certification.
+- 🐍 I'm learning Python and Data Structures & Algorithms (DSA).
+- 🌐 I'm currently learning JavaScript to build interactive web experiences.
+- 🛠️ I enjoy practicing coding and building projects as I learn.
+- 📚 I believe in consistent learning and improving step by step.
 
 ---
-### 🤝 Let's Connect & Follow My Journey
-* [freecodecamp](https://www.freecodecamp.org/shaiksajida)
-* [GitHub](https://github.com/ShaikSajida124)
-* 📧 **Email:** [anwarjhanshaik@gmail.com](mailto:anwarjhanshaik@gmail.com)
-* ⚡ **Availability:** Open to remote open-source collaborations and entry-level freelance web development projects.
 
-*"Brick by brick, line by line, building my engineering dream from home."* 🚀
+### 💻 Technologies & Tools
+
+**Languages**
+- Python
+- JavaScript
+- HTML5
+- CSS3
+
+**Tools**
+- Git
+- GitHub
+
+---
+
+### 🚀 My Projects
+
+I enjoy turning what I learn into practical projects.
+
+🔗 **Explore my repositories:**  
+[Check out my GitHub projects](https://github.com/ShaikSajida124?tab=repositories)
+
+---
+
+### 🎯 My Goals
+
+- Strengthen my JavaScript and Python fundamentals.
+- Improve my problem-solving skills through DSA.
+- Build more responsive and interactive web projects.
+- Learn frontend frameworks and backend development.
+- Grow into a professional web developer and eventually a software developer.
+
+---
+
+### 📊 My GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikSajida124&show_icons=true&hide_border=true&theme=tokyonight)
+
+
+---
+
+### 🌱 A Little About My Journey
+
+I believe that progress comes from consistency, curiosity, and practice.
+
+I'm building my skills with the resources available to me, working on projects, and learning something new every day.
+
+**One step at a time. One project at a time. 🚀**
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
